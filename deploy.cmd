@@ -1,23 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@mast3rbow 
-stefangordon
-/
-kudu-yarn
-1
-1913
- Code Issues 1 Pull requests 0 Actions Projects 0 Wiki Security Insights
-kudu-yarn/deploy.cmd
-@stefangordon stefangordon add moment, add echos
-7ce2902 on Oct 29, 2016
-138 lines (106 sloc)  3.22 KB
-  
 @if "%SCM_TRACE_LEVEL%" NEQ "4" @echo off
 
 :: ----------------------
@@ -156,15 +136,3 @@ exit /b 1
 :end
 endlocal
 echo Finished successfully.
-© 2020 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
